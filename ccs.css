@@ -60,6 +60,7 @@ section h2 {
     font-size: 14px;
 }
 
+<<<<<<< HEAD
 #herewego {
     text-decoration: none;
     color: black;
@@ -71,6 +72,8 @@ section h2 {
     transition: 0.2s;
 }
 
+=======
+>>>>>>> 784d517d7dee2ceeef3f459f0f1884b8e5afd313
 .shop {
     display: flex;
     align-items: center;
